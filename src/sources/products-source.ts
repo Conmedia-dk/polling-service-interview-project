@@ -49,7 +49,7 @@ const products3: ProductCollection = {
 const data = [products1, products2, products3]
 
 export const productsSource: Source<ProductCollection> = {
-    id: 'example',
+    id: 'products',
     pollingFrequency: 5000,
     getData: async (): Promise<ProductCollection> => {
         return data[Math.floor(Math.random() * data.length)]
