@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Conmedia-dk/polling-service-interview-project/issues"
   },
-  "homepage": "https://github.com/Conmedia-dk/polling-service-interview-project#readme"
+  "homepage": "https://github.com/Conmedia-dk/polling-service-interview-project#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
