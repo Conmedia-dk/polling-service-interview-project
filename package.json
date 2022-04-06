@@ -1,0 +1,19 @@
+{
+  "name": "polling-service-interview-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conmedia-dk/polling-service-interview-project.git"
+  },
+  "author": "Emil Kjær Eriksen <emil.k.intern@conmedia.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conmedia-dk/polling-service-interview-project/issues"
+  },
+  "homepage": "https://github.com/Conmedia-dk/polling-service-interview-project#readme"
+}
